@@ -1,4 +1,4 @@
 # LAMP Demo
 
 To Execute this application we would be using a LAMP stack.
-Deploy the application code in an apache server using AL2023 Linux server
+Deploy the application code in an apache server.
