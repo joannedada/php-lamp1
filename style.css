@@ -15,11 +15,11 @@ table .btnedit{
 }
 
 .success{
-    background-color: lightgreen;
+    background-color: lightpink;
     padding: 1em;
 }
 
 .error{
-    background-color: tomato;
+    background-color: blue;
     padding: 1em;
 }
